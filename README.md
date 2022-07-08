@@ -6,7 +6,7 @@
 </a>
  
  <a href="https://www.linkedin.com/in/eduardo-vitor-58a395239/">
-  <img margin="1000px"  align="left" alt="eduardvitor LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img margin="10px"  align="left" alt="eduardvitor LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
  <br>
