@@ -1,4 +1,3 @@
- Hi there 👋
- <a href="https://github.com/ EduardoVSR1995 /awesome-github-profile-readme/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/ EduardoVSR1995 /awesome-github-profile-readme?color=2b9348"></a>
-<a href="https://github.com/ EduardoVSR1995 /awesome-github-profile-readme/blob/master/LICENSE"><img src="https://img.shields.io/github/license/ EduardoVSR1995 /awesome-github-profile-readme?color=2b9348" alt="License Badge"/></a>
+ <b>Hi there 👋<b>
+ <img src="https://github-readme-stats.vercel.app/api?username=EduardoVSR1995&show_icons=true&theme=gotham" alt="EduardoVSR1995" />
 ⚡⚡⚡⚡⚡⚡⚡⚡ 
