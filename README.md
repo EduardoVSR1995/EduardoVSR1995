@@ -6,11 +6,11 @@
 </a>
  
  <a href="https://www.linkedin.com/in/eduardo-vitor-58a395239/">
-  <img align="left" alt="eduardvitor LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img margin="1000px"  align="left" alt="eduardvitor LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
  <br>
  
- <img margin-top="1000px" src="https://github-readme-stats.vercel.app/api?username=EduardoVSR1995&show_icons=true&theme=gotham" alt="EduardoVSR1995" />
+ <img src="https://github-readme-stats.vercel.app/api?username=EduardoVSR1995&show_icons=true&theme=gotham" alt="EduardoVSR1995" />
  <br>
 ⚡⚡⚡⚡⚡⚡⚡⚡ 
