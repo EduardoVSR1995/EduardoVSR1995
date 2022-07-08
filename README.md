@@ -11,6 +11,6 @@
 
  <br>
  
- <img top="10px" src="https://github-readme-stats.vercel.app/api?username=EduardoVSR1995&show_icons=true&theme=gotham" alt="EduardoVSR1995" />
+ <img top="1000px" src="https://github-readme-stats.vercel.app/api?username=EduardoVSR1995&show_icons=true&theme=gotham" alt="EduardoVSR1995" />
  <br>
 ⚡⚡⚡⚡⚡⚡⚡⚡ 
