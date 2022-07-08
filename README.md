@@ -1,6 +1,6 @@
  <b>Olá, tudo bem? 👋<b>
  <br>
- <p margin="10px">
+ <p margin="100px">
  <a href="https://www.instagram.com/eduardvitor8/">
   <img align="left" alt="eduardvitor Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
