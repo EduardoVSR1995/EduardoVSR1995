@@ -6,7 +6,7 @@
 </a>
  <a href="https://www.linkedin.com/in/eduardo-vitor-58a395239/">
   <img  align="left" alt="eduardvitor LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-<a href="https://mail.google.com/mail/eduardvitor7@gmail.com">
+<a href="mailto:eduardvitor7@gmail.com">
   <img  align="left" alt="eduardvitor LinkedIN" width="22px" src="https://cdn.icon-icons.com/icons2/272/PNG/512/Gmail_29991.png" />
 </a>
  <br>
