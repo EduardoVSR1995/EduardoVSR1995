@@ -11,14 +11,16 @@
 </a>
  <br>
  <br>
- Meu nome é <a href="https://www.linkedin.com/in/eduardo-vitor-58a395239/">Eduardo Vitor</a>, estudante do curso Full stack no bootcamp Driven, onde estou desenvolvendo minhas abilidades no HTML/CSS/JavaScript, cusando engennharia de Telecomunicações na UFSJ, eterno aprendiz das artes Full stacks, apaixonada por desafios, busco sempre por novos conceitos e caminhos melhorando cada vez mais minhas capacidades técnicas.  
+ Meu nome é <a href="https://www.linkedin.com/in/eduardo-vitor-58a395239/">Eduardo Vitor</a>, estudante do curso Full stack no bootcamp Driven, onde estou desenvolvendo minhas abilidades no HTML/CSS/JavaScript/react, cusando engennharia de Telecomunicações na UFSJ, eterno aprendiz das artes Full stacks, apaixonada por desafios, busco sempre por novos conceitos e caminhos melhorando cada vez mais minhas capacidades técnicas.  
  </br>
 <p>
  
-  Linguagens pricipais:<br>
+Linguagens pricipais:<br>
+<img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" >
 <img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
 <img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png">
 <img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" >
+
 <br/>
 
  Interece:<br>
