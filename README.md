@@ -11,7 +11,7 @@
 </a>
  <br>
  <br>
- Meu nome é <a href="https://www.linkedin.com/in/eduardo-vitor-58a395239/">Eduardo Vitor</a>, estudante do curso Full stack no bootcamp Driven, onde estou desenvolvendo minhas abilidades no HTML | CSS | JavaScript | react | Node.Js, cursando engenharia de Telecomunicações na UFSJ, eterno aprendiz das artes Full stacks, apaixonada por desafios, busco sempre por novos conceitos e caminhos melhorando cada vez mais minhas capacidades técnicas.  
+ Meu nome é <a href="https://www.linkedin.com/in/eduardo-vitor-58a395239/">Eduardo Vitor</a>, estudante do curso Full stack no bootcamp Driven, onde estou desenvolvendo minhas abilidades no HTML | CSS | JavaScript | react.js | Node.Js | mongodb, cursando engenharia de Telecomunicações na UFSJ, eterno aprendiz das artes Full stacks, apaixonada por desafios, busco sempre por novos conceitos e caminhos melhorando cada vez mais minhas capacidades técnicas.  
  </br>
 <p>
  
