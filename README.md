@@ -9,7 +9,7 @@
 </a>
  <br>
  <br>
- Meu nome é <a href="https://www.linkedin.com/in/eduardo-vitor-58a395239/">Eduardo Vitor</a>, estudante do curso Full stack no bootcamp Driven, onde estou desenvolvendo minhas abilidades no HTML | CSS | JavaScript | TypeScript | React.js | Node.Js | Mongodb | Postgres, cursando engenharia de Telecomunicações na UFSJ, eterno aprendiz das artes Full Stacks, apaixonado por desafios, busco sempre por novos conceitos e caminhos melhorando cada vez mais minhas capacidades técnicas.  
+ Meu nome é <a href="https://www.linkedin.com/in/eduardo-vitor-58a395239/">Eduardo Vitor</a>, estudante do curso Full stack no bootcamp Driven, onde estou desenvolvendo minhas abilidades no HTML | CSS | JavaScript | TypeScript | React.js | Node.Js | Mongodb | Postgres | docker, cursando engenharia de Telecomunicações na UFSJ, eterno aprendiz das artes Full Stacks, apaixonado por desafios, busco sempre por novos conceitos e caminhos melhorando cada vez mais minhas capacidades técnicas.  
  </br>
 <p>
  
@@ -22,6 +22,7 @@ Linguagens pricipais:<br>
 <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="nodejs logo"  />
 <img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" >
 <img height="30" src="https://raw.githubusercontent.com/docker-library/docs/01c12653951b2fe592c1f93a13b4e289ada0e3a1/postgres/logo.png" >
+<img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="docker logo"  />
 
 <br/>
 
