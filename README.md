@@ -1,7 +1,7 @@
  <b>Olá, tudo bem? 👋</b>
  <br>
  <a href="https://www.linkedin.com/in/eduardovsr1995/">
-  <img  align="left" alt="eduardvitor LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img  align="left" alt="eduardvitor LinkedIN" width="22px" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/circle-linkedin-512.png" />
 <a href="mailto:eduardvitor7@gmail.com">
   <img  align="left" alt="eduardvitor LinkedIN" width="22px" src="https://cdn.icon-icons.com/icons2/272/PNG/512/Gmail_29991.png" />
 </a>
